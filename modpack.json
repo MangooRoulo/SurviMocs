@@ -1,0 +1,24 @@
+{
+  "name": "Mi Pack de Mods",
+  "version": "1.0.0",
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoader": "forge",
+    "modLoaderVersion": "47.2.0"
+  },
+  "mods": [
+    {
+      "name": "JEI",
+      "version": "1.20.1",
+      "url": "https://tusitio.com/mipack/mods/jei.jar"
+    },
+    {
+      "name": "Quark",
+      "version": "1.20.1",
+      "url": "https://tusitio.com/mipack/mods/quark.jar"
+    }
+  ],
+  "config": {
+    "quark": "https://tusitio.com/mipack/config/quark/"
+  }
+}
